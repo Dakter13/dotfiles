@@ -10,7 +10,6 @@ export ZSH="$HOME/.oh-my-zsh"
 
 # Тема для Zsh
 ZSH_THEME="robbyrussell"
-
 # Включить плагины
 plugins=(git)
 
@@ -53,5 +52,3 @@ ws() {
 }
 
 
-# Created by `pipx` on 2024-11-28 11:25:04
-export PATH="$PATH:/root/.local/bin"
